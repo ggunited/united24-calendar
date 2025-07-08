@@ -1,0 +1,27 @@
+.calendar-container {
+  background: #191919;
+  color: #fff;
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.sidebar {
+  background: #232323;
+  padding: 16px;
+  border-radius: 10px;
+  margin-right: 24px;
+  min-width: 270px;
+}
+
+.pending-event {
+  background: #ff9800;
+  color: #111;
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.sidebar-actions button {
+  margin-right: 8px;
+  margin-top: 8px;
+}
